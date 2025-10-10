@@ -13,9 +13,12 @@ public class sdet2 {
 		System.out.println("code added by sdet1");
 		System.out.println("new feature added");
 		System.out.println("new integration added");
+		System.out.println("test1");
+		System.out.println("test1");
 		System.out.println("new code removed 6:52 pm");
 		System.out.println("line added at 7:18");
 		
+
 		
 
 
