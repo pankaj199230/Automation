@@ -18,6 +18,7 @@ public class sdet2 {
 		System.out.println("new code removed 6:52 pm");
 		System.out.println("line added at 7:18");
 		System.out.println("code 1 added");
+		System.out.println("code 2 added");
 		
 
 		
