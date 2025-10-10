@@ -8,7 +8,6 @@ public class sdet2 {
 		System.out.println("1new code added by superuser");
 		System.out.println("lie added by sdet2 user 8:03 pm");
 		System.out.println("code added by sdet1");
-		System.out.println("code added by sdet1 at 8:10");
 		System.out.println("new feature added");
 		System.out.println("new integration added");
 		System.out.println("new code added 6:52 pm");
